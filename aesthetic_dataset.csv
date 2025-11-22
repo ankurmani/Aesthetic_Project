@@ -1,0 +1,4 @@
+image_name,ev_in,white_balance_a,white_balance_b,zoom_suggestion,dx,dy,composition_rule,ev_gt,wb_a_gt,wb_b_gt,zoom_gt,dx_gt,dy_gt,composition_gt
+img_001.jpg,4.5,1.2,2.1,1.0,15,8,Rule-of-Fifths (F5-12),5.0,1.4,2.3,1.1,14,7,0.8
+img_002.jpg,3.8,0.9,1.7,1.2,-10,-5,Rule-of-Fifths (F5-5),4.0,1.0,1.8,1.1,-8,-4,0.65
+img_003.jpg,6.2,1.5,2.4,0.8,5,12,Center-Line Alignment (CL-V2),6.0,1.6,2.5,0.9,6,11,0.85
